@@ -41,6 +41,13 @@
 > 3. Share your github-profile-trophy URL deployed to Vercel for load balancing
 >    (Send email: saka_ro@yahoo.co.jp or Pull Request)
 
+# Load balancing endpoints
+
+These are endpoints provided by volunteers. Please use these in moderation.
+* [https://github-profile-trophy-liard-delta.vercel.app](https://github-profile-trophy-liard-delta.vercel.app/) by [Adwitya](https://github.com/Adwitya)
+* [https://github-profile-trophy-fork-two.vercel.app](https://github-profile-trophy-fork-two.vercel.app) by [hesreallyhim](https://github.com/hesreallyhim)
+* [https://github-profile-trophy-winning.vercel.app](https://github-profile-trophy-winning.vercel.app) by [hongbo-wei](https://github.com/hongbo-wei)
+
 # Quick Start
 
 Add the following code to your readme. When pasting the code into your profile's
@@ -591,6 +598,7 @@ contributions help keep development going and make this work possible.
 
 ## 🎁 One-Time Sponsors
 
+- [@Seo-4d696b75](https://github.com/Seo-4d696b75) — $10 (Jan 4, 2026)
 - [@massif-01](https://github.com/massif-01) — $5 (December 17, 2025)
 - [@tapegram](https://github.com/tapegram) — $20 (December 6, 2025)
 - [@WilliamCorotan](https://github.com/WilliamCorotan) — $5 (November 5, 2025)
