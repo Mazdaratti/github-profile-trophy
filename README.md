@@ -51,6 +51,10 @@ These are endpoints provided by volunteers. Please use these in moderation.
   by [hesreallyhim](https://github.com/hesreallyhim)
 - [https://github-profile-trophy-winning.vercel.app](https://github-profile-trophy-winning.vercel.app)
   by [hongbo-wei](https://github.com/hongbo-wei)
+- [https://github-profile-trophy-kannan.vercel.app](https://github-profile-trophy-kannan.vercel.app)
+  by [kann4n](https://github.com/kann4n)
+- [https://trophy.ryglcloud.net](https://trophy.ryglcloud.net)
+  by [PracticalRyan](https://github.com/PracticalRyan)
 
 # Quick Start
 
@@ -563,6 +567,34 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 <p align="center">
   <img width="936" src="https://github.com/user-attachments/assets/54de15a3-d907-4a50-8117-170aae74d1cd">
 </p>
+
+## Generate an svg file localy
+
+Using the render_svg.ts script you can generate your trophys as an svg file
+given your username, (Enviroment Vars: See [env-example](env-example)).
+
+Usage:
+
+```bash
+deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts USERNAME OUTPUT_DIR THEME
+```
+
+## Generate an svg inside Github CI (Workflow)
+
+Using the provided github action you can easly generate the trophy inside an
+github workflow. This eliminates the needs of an online service running but you
+have to manualy update rerun the action to update the file.
+
+Usage:
+
+```yaml
+- name: Generate trophy
+  uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+  with:
+    username: your-username
+    output_path: trophy.svg
+    token: ${{ secrets.GITHUB_TOKEN }}
+```
 
 # Contribution Guide
 
