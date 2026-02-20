@@ -55,6 +55,8 @@ These are endpoints provided by volunteers. Please use these in moderation.
   by [kann4n](https://github.com/kann4n)
 - [https://trophy.ryglcloud.net](https://trophy.ryglcloud.net)
   by [PracticalRyan](https://github.com/PracticalRyan)
+- [https://github-profile-trophy-tawny.vercel.app](https://github-profile-trophy-tawny.vercel.app)
+  by [vijaypurohit322](https://github.com/vijaypurohit322)
 
 # Quick Start
 
@@ -634,6 +636,7 @@ contributions help keep development going and make this work possible.
 
 ## 🎁 One-Time Sponsors
 
+- [@pronoym99](https://github.com/pronoym99) - $20 (Feb 8, 2026)
 - [@hesreallyhim](https://github.com/hesreallyhim) - $100 (Jan 11, 2026)
 - [@Seo-4d696b75](https://github.com/Seo-4d696b75) — $10 (Jan 4, 2026)
 - [@massif-01](https://github.com/massif-01) — $5 (December 17, 2025)
